@@ -1,0 +1,47 @@
+### Vivado ###
+*.jou
+*.log
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+.gen/
+.Xil/
+*.dcp
+*.pb
+*.rpt
+*.rpx
+*.vds
+usage_statistics_*
+webtalk_*
+*.backup.jou
+*.backup.log
+vivado_pid*.str
+*.backup
+*.bda
+*.bxml
+*.ui
+__synthesis_is_complete__
+NA
+
+### Vitis ###
+.metadata/
+.analytics/
+IDE.log
+RemoteSystemsTempFiles/
+*_ide/
+Debug/
+Release/
+export/
+*.elf
+*.elf.size
+BOOT.BIN
+
+### General ###
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
