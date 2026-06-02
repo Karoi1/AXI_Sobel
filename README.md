@@ -11,7 +11,7 @@ PC (UDP) ──640×480 image──▶ Zynq PS (lwIP) ──DDR──▶ VDMA MM
 ```
 
 - **器件**: Zybo Z7-20 (XC7Z020-1CLG400C)
-- **工具**: Vivado 2024.1 + Vitis Unified IDE 2024.1
+- **工具**: Vivado 2024.1 + Vitis Classic 2024.1
 - **运行环境**: PS 裸机 (standalone, Cortex-A9)
 - **图像规格**: 灰度 8-bit, 640×480 → 输出 640×480 (零填充)
 
